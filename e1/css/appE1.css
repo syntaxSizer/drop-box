@@ -86,13 +86,14 @@
 .v-menu {
     list-style: none;
     color: #fff;
-
+    margin: 0;
 }
-.v-menu a{
-     color: rgba(247, 247, 222, 0.61);
+.v-menu a {
+    color: rgba(247, 247, 222, 0.61);
 }
 .v-menu li {
     padding: 10px;
+    padding-left: 0
 }
 #middle-label {
     /*    width: 40%;*/
@@ -142,32 +143,26 @@ img {
     width: 60%;
     color: #FFF;
 }
-
-.me2{
-  padding: 5px;
-font-size: 1em;
+.me2 {
+    padding: 5px;
     color: #FFF;
 }
 .text-centered {
     margin: 7px;
 }
-
-p{
+p {
     font-size: 1vw;
 }
-
-
-
-
-
-.line svg{
+.line svg {
     padding: 12px;
-
 }
-
 .text-center {
     color: #00B5F9;
 }
-.fa{
-    color:#00B5F9;
+.fa {
+    color: #00B5F9;
+}
+.line p {
+    text-align: center;
+    font-size: 1em;
 }
