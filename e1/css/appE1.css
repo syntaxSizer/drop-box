@@ -1,8 +1,6 @@
-body p{
+body p {
     font-size: 1vw;
 }
-
-
 .wrap {
     width: 90%;
     margin: 0 auto;
@@ -172,7 +170,6 @@ p {
     text-align: center;
     font-size: .8em;
 }
-
 .thisone {
     padding-bottom: 10px;
 }
