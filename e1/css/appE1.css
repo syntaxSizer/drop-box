@@ -164,5 +164,9 @@ p {
 }
 .line p {
     text-align: center;
-    font-size: 1em;
+    font-size: .8em;
+}
+
+.thisone {
+    padding-bottom: 10px;
 }
