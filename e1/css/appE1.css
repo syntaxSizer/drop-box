@@ -1,219 +1,226 @@
-                                                                                 body p {
-                                                                                     font-size: 10px;
-                                                                                 }
-                                                                                 .wrap {
-                                                                                     width: 90%;
-                                                                                     margin: 0 auto;
-                                                                                     max-width: 1100px;
-                                                                                 }
-                                                                                 .red {
-                                                                                     background-color: red;
-                                                                                     height: 100%;
-                                                                                     float: right;
-                                                                                 }
-                                                                                 .brown {
-                                                                                     background-color: brown;
-                                                                                     box-shadow: 1px 2px 12px 0;
-                                                                                 }
-                                                                                 .tr {
-                                                                                     height: 22%;
-                                                                                 }
-                                                                                 .bg {
-                                                                                     background: -webkit-linear-gradient(#7693c1, #af8778, #c6b9b5, #6a7888);
-                                                                                     background-size: auto;
-                                                                                     /*        background-repeat:no-repeat;*/
-                                                                                 }
-                                                                                 .rightculmn {
-                                                                                     background-color: #444C63;
-                                                                                 }
-                                                                                 .topempty {
-                                                                                     background-color: transparent;
-                                                                                     height: 100px;
-                                                                                 }
-                                                                                 .vertical {
-                                                                                     background-color: #444C63;
-                                                                                 }
-                                                                                 .emptyarea {
-                                                                                     height: 300px;
-                                                                                     background-color: #444C63;
-                                                                                 }
-                                                                                 .progress {
-                                                                                     background-color: #444C63;
-                                                                                 }
-                                                                                 .color {
-                                                                                     background-color: white;
-                                                                                 }
-                                                                                 .upgrde {
-                                                                                     display: block;
-                                                                                     border: solid 1px #007EE5;
-                                                                                     text-align: center;
-                                                                                     padding: 8px;
-                                                                                 }
-                                                                                 .search {
-                                                                                     border-color: transparent;
-                                                                                 }
-                                                                                 .toprow2 i {
-                                                                                     font-size: 1.6em;
-                                                                                     padding: 11px;
-                                                                                     color: #222;
-                                                                                 }
-                                                                                 .uplode {
-                                                                                     display: block;
-                                                                                     border: solid 1px;
-                                                                                     width: 40%;
-                                                                                     text-align: center;
-                                                                                 }
-                                                                                 .toprow2 {
-                                                                                     background-color: white;
-                                                                                 }
-                                                                                 .sps {
-                                                                                     height: 145px;
-                                                                                 }
-                                                                                 .upload {
-                                                                                     display: block;
-                                                                                     border: solid 1px;
-                                                                                     width: 25%;
-                                                                                     text-align: center;
-                                                                                     color: #222;
-                                                                                 }
-                                                                                 .this p {
-                                                                                     float: right;
-                                                                                 }
-                                                                                 .tabs {
-                                                                                     display: block;
-                                                                                     border: solid 2px;
-                                                                                 }
-                                                                                 .naccol {
-                                                                                     background-color: #444C63;
-                                                                                 }
-                                                                                 .v-menu {
-                                                                                     list-style: none;
-                                                                                     color: #fff;
-                                                                                     margin: 0;
-                                                                                 }
-                                                                                 .v-menu a {
-                                                                                     color: rgba(247, 247, 222, 0.61);
-                                                                                 }
-                                                                                 .v-menu li {
-                                                                                     padding: 10px;
-                                                                                     padding-left: 0
-                                                                                 }
-                                                                                 #middle-label {
-                                                                                     /*    width: 40%;*/
-                                                                                     border-color: rgba(255, 255, 255, 0.34);
-                                                                                 }
-                                                                                 .icons {
-                                                                                     list-style: none;
-                                                                                 }
-                                                                                 .icons li {
-                                                                                     display: inline-block;
-                                                                                     padding-right: 8px;
-                                                                                     color: #007EE5;
-                                                                                 }
-                                                                                 .btn {
-                                                                                     padding: 3px;
-                                                                                     border-radius: 2px;
-                                                                                     border: solid 1px;
-                                                                                     border-color: rgba(34, 34, 34, 0.41);
-                                                                                 }
-                                                                                 .bns li {
-                                                                                     display: inline;
-                                                                                 }
-                                                                                 .bns li:active {
-                                                                                     background-color: #222;
-                                                                                 }
-                                                                                 img {
-                                                                                     /*    width: 19%;*/
-                                                                                     /*    margin: 2px;*/
-                                                                                 }
-                                                                                 .bgrow1 {
-                                                                                     background-color: white;
-                                                                                     font-size: 0.8em;
-                                                                                 }
-                                                                                 .button.hollow {
-                                                                                     font-size: 10px;
-                                                                                     ;
-                                                                                 }
-                                                                                 .button.button1 {
-                                                                                     color: white;
-                                                                                     background-color: #222;
-                                                                                 }
-                                                                                 .me {
-                                                                                     margin-top: 32px;
-                                                                                     padding: 5px;
-                                                                                     text-align: center;
-                                                                                     border: solid 2px #00B5F9;
-                                                                                     width: 80%;
-                                                                                     color: #FFF;
-                                                                                     font-size: 1.5em;
-                                                                                 }
-                                                                                 .me2 {
-                                                                                     padding: 5px;
-                                                                                     color: #FFF;
-                                                                                     padding-top: 0;
-                                                                                 }
-                                                                                 .text-centered {
-                                                                                     margin: 7px;
-                                                                                 }
-                                                                                 p {
-                                                                                     font-size: 1vw;
-                                                                                 }
-                                                                                 .line svg {
-                                                                                     padding: 12px;
-                                                                                 }
-                                                                                 .text-center {
-                                                                                     color: #00B5F9;
-                                                                                 }
-                                                                                 .fa {
-                                                                                     color: #00B5F9;
-                                                                                 }
-                                                                                 .line p {
-                                                                                     text-align: center;
-                                                                                     font-size: .8em;
-                                                                                 }
-                                                                                 .thisone {
-                                                                                     padding-bottom: 10px;
-                                                                                 }
-                                                                                 /*media query*/
+body p {
+    font-size: 10px;
+}
+.wrap {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1100px;
+}
+.red {
+    background-color: red;
+    height: 100%;
+    float: right;
+}
+.brown {
+    background-color: brown;
+    box-shadow: 1px 2px 12px 0;
+}
+.tr {
+    height: 22%;
+}
+.bg {
+    background: -webkit-linear-gradient(#7693c1, #af8778, #c6b9b5, #6a7888);
+    background-size: auto;
+    /*        background-repeat:no-repeat;*/
+}
+.rightculmn {
+    background-color: #444C63;
+}
+.topempty {
+    background-color: transparent;
+    height: 100px;
+}
+.vertical {
+    background-color: #444C63;
+}
+.emptyarea {
+    height: 300px;
+    background-color: #444C63;
+}
+.progress {
+    background-color: #444C63;
+}
+.color {
+    background-color: white;
+}
+.upgrde {
+    display: block;
+    border: solid 1px #007EE5;
+    text-align: center;
+    padding: 8px;
+}
+.search {
+    border-color: transparent;
+}
+.toprow2 i {
+    font-size: 1.6em;
+    padding: 11px;
+    color: #222;
+}
+.uplode {
+    display: block;
+    border: solid 1px;
+    width: 40%;
+    text-align: center;
+}
+.toprow2 {
+    background-color: white;
+}
+.sps {
+    height: 145px;
+}
+.upload {
+    display: block;
+    border: solid 1px;
+    width: 25%;
+    text-align: center;
+    color: #222;
+}
+.this p {
+    float: right;
+}
+.tabs {
+    display: block;
+    border: solid 2px;
+}
+.naccol {
+    background-color: #444C63;
+}
+.v-menu {
+    list-style: none;
+    color: #fff;
+    margin: 0;
+}
+.v-menu a {
+    color: rgba(247, 247, 222, 0.61);
+}
+.v-menu li {
+    padding: 10px;
+    padding-left: 0
+}
+#middle-label {
+    /*    width: 40%;*/
+    border-color: rgba(255, 255, 255, 0.34);
+}
+.icons {
+    list-style: none;
+}
+.icons li {
+    display: inline-block;
+    padding-right: 8px;
+    color: #007EE5;
+}
+.btn {
+    padding: 3px;
+    border-radius: 2px;
+    border: solid 1px;
+    border-color: rgba(34, 34, 34, 0.41);
+}
+.bns li {
+    display: inline;
+}
+.bns li:active {
+    background-color: #222;
+}
+img {
+    /*    width: 19%;*/
+    /*    margin: 2px;*/
+}
+.bgrow1 {
+    margin-top: -1.3px;
+    background-color: white;
+    font-size: 0.8em;
+}
+.button.hollow {
+    font-size: 10px;
+    ;
+}
+.button.button1 {
+    color: white;
+    background-color: #222;
+}
+.me {
+    margin-top: 32px;
+    padding: 5px;
+    text-align: center;
+    border: solid 2px #00B5F9;
+    width: 80%;
+    color: #FFF;
+    font-size: 1.5em;
+}
+.me2 {
+    padding: 5px;
+    color: #FFF;
+    padding-top: 0;
+}
+.text-centered {
+    margin: 7px;
+}
+p {
+    font-size: 1vw;
+}
+.line svg {
+    padding: 12px;
+}
+.text-center {
+    color: #00B5F9;
+}
+.fa {
+    color: #00B5F9;
+}
+.line p {
+    text-align: center;
+    font-size: .8em;
+}
+.thisone {
+    padding-bottom: 10px;
+}
 
-                                                                                 @media only screen and (max-width: 768px) {
-                                                                                     .wrap {
-                                                                                         display: none;
-                                                                                     }
-                                                                                 }
-                                                                                 /*big screen */
+/*media query*/
 
-                                                                                 @media (min-width:1025px) {
-                                                                                     .wrap-medium {
-                                                                                         display: none;
-                                                                                     }
-                                                                                 }
-                                                                                 @media (min-width:1024px) and (max-width:768px) {
-                                                                                     .wrap {
-                                                                                         display: none;
-                                                                                     }
-                                                                                 }
-                                                                                 /* medium screens layout*/
+@media only screen and (max-width: 768px) {
+    .wrap {
+        display: none;
+    }
+}
 
-                                                                                 @media only screen and (min-width:768px) and (max-width:1024px) {
-                                                                                     .wrap {
-                                                                                         display: none;
-                                                                                     }
-                                                                                     .wrap-medium {
-                                                                                         width: 90%;
-                                                                                         margin: 0 auto;
-                                                                                         max-width: 1100px;
-                                                                                     }
-                                                                                 }
-                                                                                 .medium-bgcolor {
-                                                                                     background-color: #444C63;
-                                                                                 }
-                                                                                 .medium-bgcolor-white {
-                                                                                     background-color: #fff;
-                                                                                 }
-                                                                                 .me33 {
-                                                                                     /*      padding: 5px;*/
-                                                                                     color: #FFF;
-                                                                                     /*             padding-top: 0;*/
-                                                                                     margin-bottom: 3px;
-                                                                                 }
+/*big screen */
+
+@media (min-width:1025px) {
+    .wrap-medium {
+        display: none;
+    }
+}
+@media (min-width:1024px) and (max-width:768px) {
+    .wrap {
+        display: none;
+    }
+}
+
+/* medium screens layout*/
+
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    .wrap {
+        display: none;
+    }
+    .wrap-medium {
+        width: 90%;
+        margin: 0 auto;
+        max-width: 1100px;
+    }
+}
+.medium-bgcolor {
+    background-color: #444C63;
+}
+.medium-bgcolor-white {
+    background-color: #fff;
+}
+.me33 {
+    /*      padding: 5px;*/
+    color: #FFF;
+    /*             padding-top: 0;*/
+    margin-bottom: 3px;
+}
+.medium-view li {
+    display: inline;
+}
