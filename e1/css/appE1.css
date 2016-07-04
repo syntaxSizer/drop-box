@@ -203,8 +203,15 @@
          }
          .medium-view li {
              display: inline-block;
+             /*
+             padding: 3px;
+  font-size: 23px;
+*/
          }
          .medium-view {}
          .medium-bgcolor {
              background-color: #444C63;
+         }
+         .medium-bgcolor-white {
+             background-color: #fff;
          }
